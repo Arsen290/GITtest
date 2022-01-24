@@ -1,0 +1,4 @@
+*.sass
+/admin
+/content
+/bin
